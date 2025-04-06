@@ -87,7 +87,7 @@ jobs:
               with:
                   tagName: 'IMAI'
                   releaseName: 'IMAI v__VERSION__'
-                  releaseBody: '第一个版本'
+                  releaseBody: ''
                   releaseDraft: false
                   prerelease: false
                   publish: true
