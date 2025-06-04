@@ -1,6 +1,6 @@
 [package]
 name = "IMAI.WORK"
-version = "0.0.2"
+version = "1.0.0"
 description = "IMAI.WORK数字员工演示"
 authors = ["1024xiaoshen"]
 edition = "2021"
