@@ -1,6 +1,6 @@
 {
     "$schema": "https://schema.tauri.app/config/2",
-    "productName": "IMAI",
+    "productName": "IMAI.WORK",
     "version": "0.0.2",
     "identifier": "com.imai",
     "app": {
@@ -20,7 +20,7 @@
     },
     "bundle": {
         "active": true,
-        "targets": "all",
+        "targets": ["deb", "appimage", "nsis", "app", "dmg"],
         "resources": ["./data/*"],
         "icon": [
             "icons/32x32.png",
